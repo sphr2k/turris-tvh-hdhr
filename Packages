@@ -1,0 +1,19 @@
+Package: tvheadend
+Version: 4.0.9-2
+Depends: libc, libopenssl, librt, zlib
+Source: feeds/turrispackages/multimedia/tvheadend
+License: GPL-3.0
+LicenseFiles: LICENSE.md
+Section: multimedia
+Maintainer: Jan Čermák <jan.cermak@nic.cz>
+Architecture: mvebu
+Installed-Size: 5159745
+Filename: tvheadend_4.0.9-2_mvebu.ipk
+Size: 5158307
+MD5Sum: c6d38099b758fde0d22212a80ea13068
+SHA256sum: 4f1f665fae7b04f8496fca8347d67e6601cbdd1bde26740dea385b84c1d7fbc1
+Description:  Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android
+ supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV, SAT>IP and HDHomeRun as input sources.
+ 
+ Tvheadend offers the HTTP (VLC, MPlayer), HTSP (Kodi, Movian) and SAT>IP streaming.
+
